@@ -1,5 +1,5 @@
 # DiffusionReaction_FDM
-This project explores how reaction-diffusion equations can model real-world phenomena such as the **spread of infectious diseases**. I implemented and analyzed a custom numerical method based on a modified Crank-Nicholson scheme, applied it to a spatial SIR model, and visualized the dynamics of an epidemic. Specifically it:
+This project explores how reaction-diffusion equations can model real-world phenomena such as the spread of infectious diseases. I implemented and analyzed a custom numerical method based on a modified Crank-Nicholson scheme, applied it to a spatial SIR model, and visualized the dynamics of an epidemic. Specifically it:
 
 - Implements a stable and consistent finite difference scheme for solving time-dependent PDEs.
 - Applies the method to simulate epidemic spread in space and time using a modified SIR model.
