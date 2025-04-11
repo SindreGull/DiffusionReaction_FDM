@@ -24,4 +24,8 @@ This project explores how reaction-diffusion equations can model real-world phen
 - Analyzing how discretization parameters affect accuracy and stability  
 - Clean and structured scientific Python coding
 
+## Files in this repository
 
+- FDM_DiffusionReaction_report.pdf contains a detailed description of the theory, calculations, implementation and discussion of results in the project.
+- Codebase_FDM.ipynb contains all the code implemented in the project, as well as the plots it produces.
+- Readme.md is this file
